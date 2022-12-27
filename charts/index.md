@@ -1,5 +1,12 @@
 # Charts
 
+## Flow
+
+- Chart describing why flow activities lead to **growth** and **discovery**
+- Every action performed in life fits somewhere on the graph
+
+<img src="./flow_chart.png" width="400"/>
+
 ## The funnel
 
 - Path for generating **leverage** and increasing **freedom**
@@ -13,14 +20,7 @@
 
     - **Managing people**: oldest hardest form (Egyptian pyramids, Rockerfeller etc.)
     - **Managing capital**: all the great fortunes of 20th century (Buffet, Dalio etc.). Requires some capital to start
-    - **Code/media**: newest and largest form of leverage, permission-less. All the newest fortunes (Zuck, Bezos, Rogan etc.)
-
-## Flow
-
-- Chart describing why flow activities lead to **growth** and **discovery**
-- Every action performed in life fits somewhere on the graph
-
-<img src="./flow_chart.png" width="400"/>
+    - **Code/media**: newest and largest form of leverage (potentially infinite), permission-less. All the newest fortunes (Zuck, Bezos, Rogan etc.)
 
 ## The offer
 
