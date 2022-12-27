@@ -11,9 +11,9 @@
 3. **Location independence** (optional): Generally if you have location freedom you are more free in general...but I guess it's not for everyone. This could be achieved through remote work or starting your own venture.
 4. **Financial independence**: This is where leverage matters. Leverage can be achieved through 3 mechanisms
 
-- **Managing people**: oldest hardest form (Egyptian pyramids, Rockerfeller etc.)
-- **Managing capital**: all the great fortunes of 20th century (Buffet, Dalio etc.). Requires some capital to start
-- **Code/media**: newest and largest form of leverage, permission-less. All the newest fortunes (Zuck, Bezos, Rogan etc.)
+    - **Managing people**: oldest hardest form (Egyptian pyramids, Rockerfeller etc.)
+    - **Managing capital**: all the great fortunes of 20th century (Buffet, Dalio etc.). Requires some capital to start
+    - **Code/media**: newest and largest form of leverage, permission-less. All the newest fortunes (Zuck, Bezos, Rogan etc.)
 
 ## Flow
 
