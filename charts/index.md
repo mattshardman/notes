@@ -4,7 +4,7 @@
 
 - Path for generating *leverage* and increasing *freedom*
 
-<img src="./funnel_chart.jpg" alt="drawing" width="100"/>
+<img src="./funnel_chart.jpg" alt="drawing" width="250"/>
 
 ## Flow
 
