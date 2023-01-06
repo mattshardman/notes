@@ -68,3 +68,46 @@ Normally:
 
 ## 4. The delivery vehicle - 'the how'
 
+- Define Their Dream Outcome
+- List out Every Possible Problem they can Encounter
+  - Every intricate step
+  - Everything that happens before and after achieving their goals
+  - What next problem will they face
+  - How can we make it worth it?
+  - How can we make it easier?
+  - How can we make it faster?
+  - How can we make it enjoyable, sustainable, and something they believe they can do?
+- List out every possible solution to the problems
+  - How to YAY without BOO even if you GREATEST OBSTACLE
+- Use Delivery Cube to think thorough ideas
+
+<img src="./delivery_cube.png" width="400" />
+
+## 5. Trim and stack
+
+### Maximise profit value
+
+- Rate each solution based on value and cost
+- Cut everything that's low value
+
+### Final stack of high value, high profit
+
+- Stack solutions, choose most valuable if they solve the same problem
+- Every single problem should be solved
+- Limit the number of high value, high cost items to the hardest hitting
+- Start with something that is less scalable (more high cost high value) to get people to say yes
+and begin monetization
+
+#### Defining value
+
+When defining value for each solution *reverse the value equation*
+
+#### Defining cost
+
+Should be 80% or higher gross margin
+
+### Together
+
+- List all problems
+- Rate cost & value
+- Remove low value items
