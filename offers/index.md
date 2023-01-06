@@ -17,10 +17,7 @@
 
 ### Needs to have
 
-- Pain
-- Purchasing power
-- Easy to target
-- Growing
+<img src="./markets.png" width="400" />
 
 'Help a unique avatar. Solve a specific problem. In a unique way. That reverses their biggest fear or objection.'
 
@@ -70,3 +67,4 @@ Normally:
 4. *Effort or sacrifice* - how can I make it easier
 
 ## 4. The delivery vehicle - 'the how'
+
