@@ -111,3 +111,17 @@ Should be 80% or higher gross margin
 - List all problems
 - Rate cost & value
 - Remove low value items
+
+## Sheets from website
+
+### Pick your niche
+
+<img src="./picking_markets_sheet.png" width="600" />
+
+### Charge what it's worth
+
+<img src="./pricing_sheet.png" width="600" />
+
+### Offer creation
+
+<img src="./creating_offer_sheet.png" width="600" />
